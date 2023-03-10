@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+model-viewer {
+  width: 800px;
+  height: 800px;
+  background-color:  transparent;
+}
